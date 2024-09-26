@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/ishen-dulara-kulasinghe-5869b0323/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishendulara" height="30" width="40" />
   </a>
-  <a href="https://fb.com/ishendulara" target="_blank">
+  <a href="https://www.facebook.com/ishen.dulara.9/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishendulara" height="30" width="40" />
   </a>
 </p>
