@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/ishen-dulara-kulasinghe-5869b0323" target="_blank">
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <a href="[www.linkedin.com/in/ishen-dulara-kulasinghe-5869b0323](https://www.linkedin.com/in/ishen-dulara-kulasinghe-5869b0323/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishendulara" height="30" width="40" />
   </a>
   <a href="https://fb.com/ishendulara" target="_blank">
