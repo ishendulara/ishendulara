@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://raw.githubusercontent.com/ishendulara/ishendulara/main/banner-modern-code.jpg)
+![Header](https://raw.githubusercontent.com/ishendulara/ishendulara/main/Header)
 
 <h1 align="center">Hi 👋, I'm Ishen Dulara</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN | Spring Boot | Mobile | IT Support</h3>
@@ -20,7 +20,20 @@
 
 ### 📄 Download My Resume
 
-👉 [Click here to view or download my CV (PDF)](https://github.com/ishendulara/ishendulara/raw/main/Ishen%20Dulara-%20Software%20Engineer.pdf)
+👉 [Click here to view or download my CV (PDF)](https://raw.githubusercontent.com/ishendulara/ishendulara/main/Ishen%20Dulara-%20Software%20Engineer.pdf)
+
+---
+
+### 📌 Project Highlights
+
+| Project | Stack | Description |
+|--------|-------|-------------|
+| **John Alboto Restaurant** | MERN | Full-stack restaurant site with online ordering |
+| **Book Mart** | Spring Boot | A book store backend system |
+| **Vehicle Service Center** | MERN | Manage bookings, users, and reports |
+| **Bio Fit Fitness App** | Spring Boot | Fitness progress & workout tracking |
+| **Hotel Booking App** | MERN | Real-time hotel availability and booking |
+| **Auto Hub** | WordPress | Live WordPress-based auto service center |
 
 ---
 
