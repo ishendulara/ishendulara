@@ -1,5 +1,5 @@
 <!-- Custom Banner -->
-![Header](https://raw.githubusercontent.com/ishendulara/ishendulara/main/A_professional_digital_banner_introduces_Omg_as_a_.png)
+![Header](https://raw.githubusercontent.com/ishendulara/ishendulara/main/Header)
 
 <h1 align="center">Hi 👋, I'm Ishen Dulara</h1>
 <h3 align="center">💻 Software Engineer | MERN | Spring Boot | Full-Stack | AI/ML | IT Support</h3>
